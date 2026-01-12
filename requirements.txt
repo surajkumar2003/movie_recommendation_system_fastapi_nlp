@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+
+#data and ml
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+
+#frontend
+streamlit
